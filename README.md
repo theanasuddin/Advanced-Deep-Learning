@@ -2,7 +2,8 @@
 ### Computer Exercises & Implementations in Python (PyTorch)
 
 This repository contains my computer exercise solutions for the **[Advanced Deep Learning](https://opiskelijanopas.tuni.fi/en/tampere-university/curriculum/course-units/otm-fddf2ad0-e7bc-47de-8962-79f0c9c961c1?year=2025)** course.  
-The work focuses on implementing and experimenting with advanced neural architectures, optimization techniques, and modern learning paradigms using Python and PyTorch.
+The work focuses on implementing and experimenting with advanced neural architectures, optimization techniques, and modern learning paradigms using Python and PyTorch.  
+To get started with the exercises, check out the *[Setup & Getting Started Guide](https://github.com/theanasuddin/Deep-Learning-Fundamentals/blob/master/GETTING_STARTED.md)*
 
 ---
 
